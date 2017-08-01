@@ -1,6 +1,6 @@
 # cosmo
 This application was generated using JHipster 4.6.2, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v4.6.2](https://jhipster.github.io/documentation-archive/v4.6.2).
-
+https://jhipster.github.io/jdl-studio/
 ## Development
 
 Before you can build this project, you must install and configure the following dependencies on your machine:
